@@ -20,8 +20,8 @@ class User{
     }
 }
 
-    const rafao = new User ('rafao', '14/10/2004', '123.234.345-56', 'undefined')
+    const murilo = new User ("murilo", '22/06/2005', '123.134.234-54', 'undefined') 
     const joao = new Number ()
 
-    console.log(rafao.speak_name())
-    console.log(rafao.equals(rafao))
+    console.log(murilo.speak_name())
+    console.log(murilo.equals(joao))
